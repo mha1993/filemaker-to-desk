@@ -1,0 +1,16 @@
+{
+  "first_name": "New",
+  "emails": [
+    {
+      "type": "work",
+      "value": "johnny@acme.com"
+    },
+    {
+      "type": "other",
+      "value": "johnny@other.com"
+    }
+  ],
+  "custom_fields": {
+    "level": "super"
+  }
+}

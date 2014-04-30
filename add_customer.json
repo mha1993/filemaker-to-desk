@@ -1,0 +1,14 @@
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "emails": [
+    {
+      "type": "work",
+      "value": "john@acme.com"
+    },
+    {
+      "type": "home",
+      "value": "john@home.com"
+    }
+  ]
+}
